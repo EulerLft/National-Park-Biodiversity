@@ -34,8 +34,26 @@ Key Analysis Areas:
 -------------------
 
 - evaluate the distribution of conservation statuses across the different categories 
-(e.g, do mammals have more animals in endangered than birds, etc.)
+(e.g, do mammals have more animals in endangered than birds, etc.) (COMPLETE) - [X]
 
-- aggregate the number of sightings per part for different species. Evaluate which locations have the greatest biodiversity. Which species have the greatest sightings of rare species? 
+- link the two datasets using scientific names to see the populations of species with specific conservation needs (COMPLETE) - [X]
 
-- link the two datasets using scientific names to see the populations of species with specific conservation needs 
+- Evaluate which locations have the greatest biodiversity - which park has the greatest sightings of rare species? (COMPLETE) - [X]
+
+
+Additonal Analysis: 
+-------------------
+<b> 1. New Concepts & Advanced Questions </b>
+1.1: Investigate the "Conservation Deficit"
+- identifying species that have very low observations but are not yet classified as "Endangered" or "Threatened." 
+(By isolating these species, you can highlight potential gaps in federal protection)
+
+
+<b> 2. Striking Visualizations </b>
+Use visualizations that emphasize relationships and proportions
+
+2.1: Stacked Percent Bar Charts: Instead of showing the number of endangered species, show the percentage of each category (Mammal, Bird, etc.) that is at risk. 
+This visually levels the playing field, making it immediately obvious that while there are fewer total mammals than plants, a much higher proportion of mammals are in danger.
+
+2.2: Heatmaps of Observations: Create a heatmap where the x-axis represents the four parks and the y-axis represents the animal categories. The color intensity can represent the "rare observation density" you calculated earlier. This will instantly highlight whether certain parks specialize in protecting specific types of life, such as birds or vascular plants.
+
